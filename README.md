@@ -12,7 +12,7 @@
 1. Go in config.toml
 2. Line 4: `theme = <your-theme>`
 
-Currently there are 2 themes :
+Currently there are 6 themes :
 - `ananke` [link](https://github.com/theNewDynamic/gohugo-theme-ananke) 
 - `xmin` [link](https://github.com/yihui/hugo-xmin)
 - `PaperMod` [link](https://github.com/adityatelange/hugo-PaperMod)
