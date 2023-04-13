@@ -18,3 +18,4 @@ Currently there are 2 themes :
 - `PaperMod` [link](https://github.com/adityatelange/hugo-PaperMod)
 - `charlolamode` [link](https://github.com/charlola/hugo-theme-charlolamode)
 - `beautifulhugo` [link](https://github.com/halogenica/beautifulhugo)
+- `tella` [link](https://github.com/opera7133/tella)
