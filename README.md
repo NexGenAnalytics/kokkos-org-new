@@ -10,9 +10,11 @@
 ## How to change themes
 
 1. Go in config.toml
-2. Line 4: `theme = <your-theme>`
+2. Line 4: `theme = '[name-of-your-theme]'`
 
-Currently there are 6 themes :
+Themes comes from [https://themes.gohugo.io/](https://themes.gohugo.io/)
+
+Currently there are 6 themes (in this repository) :
 - `ananke` [link](https://github.com/theNewDynamic/gohugo-theme-ananke) 
 - `xmin` [link](https://github.com/yihui/hugo-xmin)
 - `PaperMod` [link](https://github.com/adityatelange/hugo-PaperMod)
