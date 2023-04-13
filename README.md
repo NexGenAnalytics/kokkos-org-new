@@ -6,3 +6,13 @@
 2. Pull this repository and cd `<path-to-the-repository>`
 3. Command: `$ hugo server -D`
 4. View your site at the URL displayed in your terminal
+
+## How to change themes
+
+1. Go in config.toml
+2. Line 4: `theme = <your-theme>`
+
+Currently there are 2 themes :
+- `ananke` [link](https://github.com/theNewDynamic/gohugo-theme-ananke) 
+- `xmin` [link](https://github.com/yihui/hugo-xmin)
+
