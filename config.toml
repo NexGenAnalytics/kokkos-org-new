@@ -1,0 +1,61 @@
+# About
+
+baseURL = 'http://kokkos.org/'
+languageCode = 'en-us'
+title = 'Kokkos'
+ 
+# Theme import
+
+[[module.imports]]
+path = "github.com/willfaught/paige"
+
+# Website menu
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "repositories"
+name = "Repositories"
+url = "/repositories/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "documentation"
+name = "Documentation"
+url = "/documentation/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "outreach"
+name = "Outreach"
+url = "/outreach/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "community"
+name = "Community"
+url = "/community/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 20
+
