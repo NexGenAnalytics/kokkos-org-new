@@ -59,3 +59,8 @@ name = "Search"
 url = "/search/"
 weight = 20
 
+# Config search
+
+[outputs]
+home = ["html", "json", "rss"]
+
