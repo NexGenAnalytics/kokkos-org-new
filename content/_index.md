@@ -1,9 +1,9 @@
 ---
-description: "KOKKOS ECOSYSTEM - Part of the Exascale Project"
 paige:
   style: |
     #paige-collections,
     #paige-sections,
+    #paige-title,
     #paige-pages {
         display: none;
     }
@@ -14,19 +14,24 @@ title: "Kokkos"
 ---
 
 {{< paige/image
-    alt="Landscape"
+    breakpoints=false
+    fetchpriority="high"
+    src="../assets/images/kokkos-logo.png"
+    title=""
+    width="30%" >}}
+
+KOKKOS ECOSYSTEM - Part of the Exascale Project
+
+{{< paige/image
+    alt=""
     breakpoints=false
     class="object-fit-cover rounded-4 shadow"
-    densities=""
     fetchpriority="high"
     height="20rem"
     link=""
     loading="eager"
-    maxheight=""
-    maxwidth=""
-    process=""
     sizes=""
     src="../assets/images/kokkos-ecosystem-hero.jpg"
     srcset=""
-    title="Landscape"
+    title=""
     width="100%" >}}
