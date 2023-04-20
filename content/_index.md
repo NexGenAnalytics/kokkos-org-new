@@ -54,9 +54,9 @@ The Programming Guide provides information about how to use Kokkos capabilities 
 
 ## Updates
 
-[Post n°1]({{< ref "/blog/blog-post-01" >}} "Post n°1")
+[HPX now available as an experimental backend]({{< ref "/blog/blog-post-01" >}} "Post n°1")
 
-[Post n°2]({{< ref "/blog/blog-post-02" >}} "Post n°2")
+[1st Kokkos Usergroup Meeting in Albuquerque NM]({{< ref "/blog/blog-post-02" >}} "Post n°2")
 
 ---
 
