@@ -1,0 +1,52 @@
+# About
+baseurl: "http://kokkos.org/"
+title: "Kokkos"
+languagecode: "en-us"
+# Website menu
+languages:
+  en:
+    menu:
+      main:
+      - identifier: "home"
+        name: "Home"
+        url: "/"
+        weight: 10
+      - identifier: "about"
+        name: "About"
+        url: "/about/"
+        weight: 20
+      - identifier: "repositories"
+        name: "Repositories"
+        url: "/repositories/"
+        weight: 30
+      - identifier: "documentation"
+        name: "Documentation"
+        url: "/documentation/"
+        weight: 40
+      - identifier: "blog"
+        name: "Blog"
+        url: "/blog/"
+        weight: 50
+      - identifier: "outreach"
+        name: "Outreach"
+        url: "/outreach/"
+        weight: 60
+      - identifier: "community"
+        name: "Community"
+        url: "/community/"
+        weight: 70
+      - identifier: "search"
+        name: "Search"
+        url: "/search/"
+        weight: 80
+    weight: 8
+# Theme import
+module:
+  imports:
+  - path: "github.com/willfaught/paige"
+# Config search
+outputs:
+  home:
+  - "html"
+  - "json"
+  - "rss"
