@@ -36,7 +36,7 @@ languages:
         url: "/community/"
         weight: 70
       - identifier: "search"
-        name: "Search"
+        name: "🔍"
         url: "/search/"
         weight: 80
     weight: 8
