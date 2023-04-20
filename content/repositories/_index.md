@@ -2,7 +2,7 @@
 title: "Repositories"
 ---
 
-Links to github directories:
+Links to Github directories:
 
 [Core](https://github.com/kokkos/kokkos)
 
