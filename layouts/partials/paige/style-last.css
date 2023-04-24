@@ -17,12 +17,12 @@
     width: 20%; /* 100% / 5 figures = 20% */
 }
 
+/* Display text on landscape background image */
 .home-title-div {
     position: relative;
     text-align: center;
     color: white;
 }
-
 .home-title-text {
     position: absolute;
     top: 50%;

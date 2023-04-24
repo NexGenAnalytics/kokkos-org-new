@@ -23,7 +23,7 @@ title: "Kokkos"
 
 <div class="home-title-div">
 
-## KOKKOS ECOSYSTEM - Part of the Exascale Project ## {class="home-title-text"}
+<h2 class="home-title-text">KOKKOS ECOSYSTEM <br /> Part of the Exascale Project</h2>
 
 {{< paige/image
     alt=""
