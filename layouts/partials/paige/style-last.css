@@ -8,5 +8,11 @@
 /* Align horizontally home's images */
 .home-image-column {
     float: left;
-    width: 33.3%;
+    width: 33.3%; /* 100% / 3 figures = 33.3% */
+}
+
+/* Align horizontally /community/team's image */
+.community-team-image-column {
+    float: left;
+    width: 20%; /* 100% / 5 figures = 20% */
 }
