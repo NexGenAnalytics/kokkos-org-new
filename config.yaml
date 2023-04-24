@@ -54,3 +54,8 @@ outputs:
   - "html"
   - "json"
   - "rss"
+# Enable some html balise
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

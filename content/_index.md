@@ -21,12 +21,14 @@ title: "Kokkos"
     class="center"
     width="30%" >}}
 
-KOKKOS ECOSYSTEM - Part of the Exascale Project 
+<div class="home-title-div">
+
+## KOKKOS ECOSYSTEM - Part of the Exascale Project ## {class="home-title-text"}
 
 {{< paige/image
     alt=""
     breakpoints=false
-    class="object-fit-cover rounded-4 shadow"
+    class="object-fit-cover rounded-4 shadow home-title-image"
     fetchpriority="high"
     height="20rem"
     link=""
@@ -36,6 +38,8 @@ KOKKOS ECOSYSTEM - Part of the Exascale Project
     srcset=""
     title=""
     width="100%" >}}
+
+</div>
 
 ## Sponsors
 

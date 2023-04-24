@@ -16,3 +16,16 @@
     float: left;
     width: 20%; /* 100% / 5 figures = 20% */
 }
+
+.home-title-div {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.home-title-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
