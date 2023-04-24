@@ -21,7 +21,7 @@ title: "Kokkos"
     class="center"
     width="30%" >}}
 
-KOKKOS ECOSYSTEM - Part of the Exascale Project
+KOKKOS ECOSYSTEM - Part of the Exascale Project 
 
 {{< paige/image
     alt=""
@@ -50,6 +50,7 @@ This website contains material previously released under SAND2018-5365 O.
     breakpoints=false
     fetchpriority="high"
     loading="eager"
+    class="home-image-column"
     src="../assets/images/snl-logo-632x200.jpg"
     title="" >}}
 
@@ -57,6 +58,7 @@ This website contains material previously released under SAND2018-5365 O.
     breakpoints=false
     fetchpriority="high"
     loading="eager"
+    class="home-image-column"
     src="../assets/images/ornl-logo-300x95.jpg"
     title="" >}}
 
@@ -64,5 +66,6 @@ This website contains material previously released under SAND2018-5365 O.
     breakpoints=false
     fetchpriority="high"
     loading="eager"
+    class="home-image-column"
     src="../assets/images/lanl-logo-300x95.jpg"
     title="" >}}
