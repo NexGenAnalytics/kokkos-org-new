@@ -13,6 +13,7 @@ The Kokkos C++ Performance Portability EcoSystem is a production level solution 
     breakpoints=false
     fetchpriority="high"
     loading="eager"
+    class="center" 
     src="../assets/images/Kokkos-Architecture3-1024x582.png"
     title="" >}}
 
@@ -31,5 +32,3 @@ The Kokkos C++ Performance Portability EcoSystem is a production level solution 
 # [Tutorials](https://github.com/kokkos/kokkos-tutorials)
 
 # [News]({{< ref "/blog" >}} "News")
-
-# [Contact]({{< ref "/about/contact" >}} "Contact")

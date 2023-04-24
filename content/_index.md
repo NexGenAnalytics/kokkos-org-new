@@ -38,28 +38,6 @@ KOKKOS ECOSYSTEM - Part of the Exascale Project
 
 ---
 
-## [Kokkos tutorials](https://github.com/kokkos/kokkos-tutorials)
-
-Github Tutorials for the Kokkos C++ Performance Portability Programming EcoSystem
-
-## [Applications]({{< ref "/community/applications" >}} "Applications")
-
-List of Success Stories for Kokkos Ecosystem
-
-## [Programming Guide]({{< ref "/documentation" >}} "Programming Guide")
-
-The Programming Guide provides information about how to use Kokkos capabilities and their semantics.
-
----
-
-## Updates
-
-[HPX now available as an experimental backend]({{< ref "/blog/blog-post-01" >}} "Post n°1")
-
-[1st Kokkos Usergroup Meeting in Albuquerque NM]({{< ref "/blog/blog-post-02" >}} "Post n°2")
-
----
-
 ## Sponsors
 
 This research was supported by the Exascale Computing Project (ECP), Project Number: 17-SC-20-SC, a collaborative effort of two DOE organizations—the Office of Science and the National Nuclear Security Administration—responsible for the planning and preparation of a capable exascale ecosystem—including software, applications, hardware, advanced system engineering, and early testbed platforms—to support the nation’s exascale computing imperative.Sandia National Laboratories is a multi-mission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA-0003525.

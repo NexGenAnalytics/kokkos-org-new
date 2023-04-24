@@ -35,11 +35,15 @@ languages:
         name: "Community"
         url: "/community/"
         weight: 70
+      - identifier: "contact"
+        name: "Contact"
+        url: "/contact/"
+        weight: 80
       - identifier: "search"
         name: "🔍"
         url: "/search/"
-        weight: 80
-    weight: 8
+        weight: 90
+    weight: 9
 # Theme import
 module:
   imports:
