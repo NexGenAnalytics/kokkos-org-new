@@ -9,9 +9,9 @@
 # 2. How to work locally
 - Install all requirements
 - Clone [this repository](https://github.com/NexGenAnalytics/kokkos-org-new)
-- Change directory `<your-path-to-the-repository>`
+- Change directory: `<your-path-to-the-repository>`
 - Edit source files (see below)
-- To render the website, use ``hugo server -D``
+- To render the website, use: ``hugo server -D``
 - Open Chrome, web server is available at http://localhost:`<assigned-port-depends>`
     - example: `http://localhost:1313`
 
@@ -55,16 +55,27 @@
         weight: <number>
       ```
     - This tab will be before the items that have a weight lower than `<number>` and after the items that have a weight higher than `<number>`
-- If you have no content at the `url`, you get an error. To solve it you have to create a page or a folder with the same name as your `identifier`. For more information see next section.
+- If you have no content at the `url`, you get an error. To solve it you have to create a page or a folder with the same name as your `identifier` (for more information see next section)
 
 <br />
 
-# 5. how to add a new page (not a blog)
-- 
-- TODO
-- for example under documentation 
+# 5. How to add a new page (not a blog)
+- Create a new folder in the `content/` folder
+- The name given will also be the identifier in the code and the name visible in the url 
+- All folders in `content/` must have at least one file named `_index.md`
+- This .md file must have a correct header (see part **3. How to add a blog post**)
+- The content is then free following the markdown goldmark rules.
 
 <br />
 
-# 6. how to build static html files 
-- TODO
+# 6. How to build static HTML files 
+- Go to the root directory: `cd <your-path-to-the-repository>`
+- Use the command line: `hugo`
+- This command **generates the html code**, css, and more, to be able to deploy your website
+- And puts it in an automatically created folder called **public/**
+
+# Check the build 
+You can check that the build is working well by running the build code with a small local python server. You must have python3 installed. This is not explained in this document.
+- Change directory: `<your-path-to-the-repository>/public/`
+- Execute the command: `python3 -m http.server`
+- Web server is available at `http://localhost:8000` for example
