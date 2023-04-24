@@ -8,5 +8,6 @@ title: "Core"
     breakpoints=false
     fetchpriority="high"
     loading="eager"
+    class="center" 
     src="../assets/images/Abstractions.jpg"
     title="" >}}

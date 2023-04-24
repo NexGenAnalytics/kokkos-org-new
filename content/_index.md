@@ -18,6 +18,7 @@ title: "Kokkos"
     fetchpriority="high"
     src="../assets/images/kokkos-logo.png"
     title=""
+    class="center"
     width="30%" >}}
 
 KOKKOS ECOSYSTEM - Part of the Exascale Project
