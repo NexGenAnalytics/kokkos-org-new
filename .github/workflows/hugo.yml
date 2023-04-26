@@ -64,9 +64,6 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
-      - name: Move index.json at the right place
-        run: |
-          mv index.json public
 
   # Deployment job
   deploy:

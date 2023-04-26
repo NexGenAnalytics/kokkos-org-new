@@ -52,12 +52,13 @@ module:
   imports:
   - path: "github.com/willfaught/paige"
 # Config search
+params:
+  search: true
 outputs:
   home:
-  - "html"
-  - "json"
+  - "HTML"
   - "JSON"
-  - "rss"
+  - "RSS"
 # Enable some html balise
 markup:
   goldmark:
