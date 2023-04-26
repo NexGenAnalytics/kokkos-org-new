@@ -56,6 +56,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
+          echo "replace github.com/willfaught/paige => ../" >>go.mod
           hugo \
             --gc \
             --minify \
