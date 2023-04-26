@@ -56,7 +56,6 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          echo "replace github.com/willfaught/paige => ../" >>go.mod
           hugo \
             --gc \
             --minify \
@@ -65,6 +64,9 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
+      - name: Move index.json at the right place
+        run: |
+          ll
 
   # Deployment job
   deploy:
