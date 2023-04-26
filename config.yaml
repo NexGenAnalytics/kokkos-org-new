@@ -40,7 +40,7 @@ languages:
         url: "/contact/"
         weight: 80
       - identifier: "search"
-        name: "🔍"
+        name: "Search"
         url: "/search/"
         weight: 90
     weight: 9
