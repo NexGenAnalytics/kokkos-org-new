@@ -34,7 +34,7 @@ title: "Kokkos"
     link=""
     loading="eager"
     sizes=""
-    src="../assets/images/kokkos-ecosystem-hero.jpg"
+    src="assets/images/kokkos-ecosystem-hero.jpg"
     srcset=""
     title=""
     width="100%" >}}
