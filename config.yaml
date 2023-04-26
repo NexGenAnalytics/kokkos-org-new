@@ -2,6 +2,8 @@
 baseurl: "http://kokkos.org/"
 title: "Kokkos"
 languagecode: "en-us"
+# Deploy HTML static
+relativeURLs: true
 # Website menu
 languages:
   en:
