@@ -16,7 +16,7 @@ title: "Kokkos"
 {{< paige/image
     breakpoints=false
     fetchpriority="high"
-    src="images/kokkos-logo.png"
+    src="/images/kokkos-logo.png"
     title=""
     class="center"
     width="30%" >}}
