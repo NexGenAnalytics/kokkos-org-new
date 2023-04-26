@@ -55,7 +55,7 @@ This website contains material previously released under SAND2018-5365 O.
     fetchpriority="high"
     loading="eager"
     class="home-image-column"
-    src="../assets/images/snl-logo-632x200.jpg"
+    src="/images/snl-logo-632x200.jpg"
     title="" >}}
 
 {{< paige/image
@@ -63,7 +63,7 @@ This website contains material previously released under SAND2018-5365 O.
     fetchpriority="high"
     loading="eager"
     class="home-image-column"
-    src="../assets/images/ornl-logo-300x95.jpg"
+    src="/images/ornl-logo-300x95.jpg"
     title="" >}}
 
 {{< paige/image
@@ -71,5 +71,5 @@ This website contains material previously released under SAND2018-5365 O.
     fetchpriority="high"
     loading="eager"
     class="home-image-column"
-    src="../assets/images/lanl-logo-300x95.jpg"
+    src="/images/lanl-logo-300x95.jpg"
     title="" >}}

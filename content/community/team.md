@@ -9,7 +9,7 @@ The Kokkos Team is a multi-institutional group of HPC, C++ and Linear Algebra ex
     fetchpriority="high"
     loading="eager"
     class="community-team-image-column"
-    src="../assets/images/snl-logo-632x200.jpg"
+    src="/images/snl-logo-632x200.jpg"
     title="" >}}
 
 {{< paige/image
@@ -17,7 +17,7 @@ The Kokkos Team is a multi-institutional group of HPC, C++ and Linear Algebra ex
     fetchpriority="high"
     loading="eager"
     class="community-team-image-column"
-    src="../assets/images/lanl-logo-300x95.jpg"
+    src="/images/lanl-logo-300x95.jpg"
     title="" >}}
 
 {{< paige/image
@@ -25,7 +25,7 @@ The Kokkos Team is a multi-institutional group of HPC, C++ and Linear Algebra ex
     fetchpriority="high"
     loading="eager"
     class="community-team-image-column"
-    src="../assets/images/ornl-logo-300x95.jpg"
+    src="/images/ornl-logo-300x95.jpg"
     title="" >}}
 
 {{< paige/image
@@ -33,7 +33,7 @@ The Kokkos Team is a multi-institutional group of HPC, C++ and Linear Algebra ex
     fetchpriority="high"
     loading="eager"
     class="community-team-image-column"
-    src="../assets/images/ANL-logo-300x105.png"
+    src="/images/ANL-logo-300x105.png"
     title="" >}}
 
 {{< paige/image
@@ -41,7 +41,7 @@ The Kokkos Team is a multi-institutional group of HPC, C++ and Linear Algebra ex
     fetchpriority="high"
     loading="eager"
     class="community-team-image-column"
-    src="../assets/images/CSCS-Logo-300x121.jpg"
+    src="/images/CSCS-Logo-300x121.jpg"
     title="" >}}
 
 # Kokkos Core

@@ -19,7 +19,7 @@ description: ""
     maxwidth=""
     process=""
     sizes=""
-    src="../assets/images/kokkos-blog-post2.jpg"
+    src="/images/kokkos-blog-post2.jpg"
     srcset=""
     title=""
     width="100%" >}}

@@ -44,9 +44,9 @@ languages:
         url: "/search/"
         weight: 90
     weight: 9
+# Path to take static files
 staticDir:
   - assets
-
 # Theme import
 module:
   imports:

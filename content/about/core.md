@@ -9,5 +9,5 @@ title: "Core"
     fetchpriority="high"
     loading="eager"
     class="center" 
-    src="../assets/images/Abstractions.jpg"
+    src="/images/Abstractions.jpg"
     title="" >}}
