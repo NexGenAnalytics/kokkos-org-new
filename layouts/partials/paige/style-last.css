@@ -8,7 +8,7 @@
 /* Align horizontally home's images */
 .home-image-column {
     float: left;
-    width: 33.3%; /* 100% / 3 figures = 33.3% */
+    width: 50%; /* 100% / 2 figures = 50% */
 }
 
 /* Align horizontally /community/team's image */

@@ -65,11 +65,3 @@ This website contains material previously released under SAND2018-5365 O.
     class="home-image-column"
     src="/images/ornl-logo-300x95.jpg"
     title="" >}}
-
-{{< paige/image
-    breakpoints=false
-    fetchpriority="high"
-    loading="eager"
-    class="home-image-column"
-    src="/images/lanl-logo-300x95.jpg"
-    title="" >}}

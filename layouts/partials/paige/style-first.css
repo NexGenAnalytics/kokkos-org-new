@@ -5,11 +5,13 @@
 #paige-reading-time,
 #paige-series,
 #paige-toc,
+#paige-breadcrumbs,
 .paige-authors,
 .paige-date,
 .paige-keywords,
 .paige-reading-time,
 .paige-series,
-.paige-summary {
+.paige-summary,
+.paige-breadcrumbs {
     display: none;
 }
